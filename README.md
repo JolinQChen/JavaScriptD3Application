@@ -1,8 +1,8 @@
 # JavaScript_D3_Application
-This repository contains several D3 implementation examples for dava visualization and user interaction;
+This repository contains several D3 implementation examples for dava visualization and user interaction;\n
 Support Chrome and firefox;
 
-1. Force-directed graph layout: graph.html
+1. Force-directed graph layout: graph.html\n
 Provides code to show the data relationship with force-directed graph based on Javascript and D3;
 The code includes the following functions:
 -- Create force-directed graph;
