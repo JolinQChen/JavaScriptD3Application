@@ -26,11 +26,11 @@ Support Chrome and firefox;
 Visualize the earthquakes in Americans states in the form of heatmap.
 
 
-## Q5: Interactive Visualization of State Earthquakes: state-year-earthquakes.csv, interactive.html
+## Q5: Interactive Visualization of State Earthquakes (state-year-earthquakes.csv, interactive.html)
 
   Provides code to interactively visualize the earthquake information in American states.
 
-## Q6: Choropleth Map of State Data: state-earthquakes.csv, states-10m.json, choropleth.html
+## Q6: Choropleth Map of State Data (state-earthquakes.csv, states-10m.json, choropleth.html)
 
   Provides code to process data provided in state-earthquakes.csv and states-10m.json and visualize through an interactive map    in browser.
 
