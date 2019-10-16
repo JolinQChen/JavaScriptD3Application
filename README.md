@@ -1,6 +1,6 @@
 # JavaScript_D3_Application
 
-`Important: remember to setup an local HTTP server to run D3 visualizations. The easiest way is to use http.server for Python 3.x, or SimpleHTTPServer for Python 2.x.`
+`Important: remember to setup a local HTTP server to run D3 visualizations. The easiest way is to use http.server for Python 3.x, or SimpleHTTPServer for Python 2.x.`
 
 
 This repository contains several D3 implementation examples for dava visualization and user interaction;
