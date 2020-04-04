@@ -28,7 +28,7 @@ Must run on local host.
 ## Q4: Heatmap and Select Box (heatmap.html, earthquakes.csv)
 
 Visualize the earthquakes in Americans states in the form of heatmap.  
-![image](https://github.com/JolinQChen/JavaScriptD3Application/blob/master/Q4/Screen%20Recording%202020-04-04%20at%2019.39.24.gif)
+![image](https://github.com/JolinQChen/JavaScriptD3Application/blob/master/Q4/Screen%20Recording%202020-04-04%20at%2019.48.53.gif)
 
 ## Q5: Interactive Visualization of State Earthquakes (state-year-earthquakes.csv, interactive.html)
 
