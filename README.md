@@ -22,6 +22,7 @@ Support Chrome and firefox;
 ![image](https://github.com/JolinQChen/JavaScriptD3Application/blob/master/Q2/Screen%20Recording%202020-04-04%20at%2019.06.22.gif)
 ## Q3: Line Charts
 Use the dataset provided in the file earthquakes.csv to create line charts.  
+Must run on local host.  
 ![image](https://github.com/JolinQChen/JavaScriptD3Application/blob/master/Q3/Screen%20Recording%202020-04-04%20at%2019.32.45.gif)
 
 ## Q4: Heatmap and Select Box (heatmap.html, earthquakes.csv)
