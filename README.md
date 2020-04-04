@@ -19,7 +19,7 @@ Support Chrome and firefox;
     -- Scale the radius of each node and change edge color based on its degree;
 
     -- Pin nodes so that the node will be marked and pinned at first double click, and unfreezed at second double click.  
-![image](https://github.com/JolinQChen/JavaScriptD3Application/blob/master/Q2/graph.html)
+![image](https://github.com/JolinQChen/JavaScriptD3Application/blob/master/Q2/Screen%20Recording%202020-04-04%20at%2019.06.22.gif)
 
 ## Q4: Heatmap and Select Box (heatmap.html, earthquakes.csv)
 
