@@ -35,7 +35,7 @@ Visualize the earthquakes in Americans states in the form of heatmap.
 ## Q5: Interactive Visualization of State Earthquakes (state-year-earthquakes.csv, interactive.html)
 
   Provides code to interactively visualize the earthquake information in American states.  
-<img width="400" height="400" src="https://github.com/JolinQChen/JavaScriptD3Application/blob/master/Q5/Screen%20Recording%202020-04-04%20at%2019.51.52.gif"/>
+<img width="300" height="300" src="https://github.com/JolinQChen/JavaScriptD3Application/blob/master/Q5/Screen%20Recording%202020-04-04%20at%2020.03.14.gif"/>
 
 ## Q6: Choropleth Map of State Data (state-earthquakes.csv, states-10m.json, choropleth.html)
 
