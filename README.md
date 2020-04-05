@@ -40,4 +40,4 @@ Visualize the earthquakes in Americans states in the form of heatmap.
 ## Q6: Choropleth Map of State Data (state-earthquakes.csv, states-10m.json, choropleth.html)
 
   Provides code to process data provided in state-earthquakes.csv and states-10m.json and visualize through an interactive map    in browser.
-
+![image](https://github.com/JolinQChen/JavaScriptD3Application/blob/master/Q6/Screen%20Recording%202020-04-04%20at%2020.05.59.gif)
